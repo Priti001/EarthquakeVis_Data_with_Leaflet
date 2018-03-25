@@ -15,7 +15,6 @@ In this project, I have visualized earthquakes occurring globally using a live A
 
 
 #### Images from the final app
-![final_app_part1.png](images/final_app_part1.png)
 ![final_app_part2.png](images/final_app_part2.png)
 ![final_app_part3.png](images/final_app_part3.png)
 
